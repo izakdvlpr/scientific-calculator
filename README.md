@@ -31,7 +31,7 @@ A simple mobile app made in Flutter to do scientific calculations.
 # Usage
 
 - Run `flutter pub get` for install dependencies.
-- Press F5 if Vscode or run in command-Line `flutter run`.
+- Press F5 if Vscode or run in command-Line `flutter run`
 - Generate build with `flutter build apk`
 
 # Authors
