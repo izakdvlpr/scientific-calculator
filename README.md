@@ -22,7 +22,7 @@
 
 # About
 
-A simple app made in Flutter to do scientific calculations.
+A simple mobile app made in Flutter to do scientific calculations.
 
 # Techs
 
