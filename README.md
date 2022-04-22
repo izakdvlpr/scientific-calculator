@@ -9,8 +9,7 @@
     <img src="https://img.shields.io/badge/type-portfolio-green" alt="Repo Type" />
     <img src="https://img.shields.io/badge/language-dart-cyan" alt="Repo Main Language" />
     <img src="https://img.shields.io/badge/platform-mobile-blueviolet" alt="Project Platform" />
-    <a href="https://simple-caculator-zevdvlpr.vercel.app/"><img src="https://img.shields.io/badge/deploy-vercel-brightgreen" alt="Deploy link" /></a>
-    <a href="https://github.com/zevdvlpr/simple-caculator/tree/master/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/simple-caculator?color=red&label=license" alt="Repo License" /></a>
+    <a href="https://github.com/zevdvlpr/simple-caculator/tree/main/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/simple-caculator?color=red&label=license" alt="Repo License" /></a>
   </p>
   
   <p>
