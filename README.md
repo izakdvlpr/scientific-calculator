@@ -31,8 +31,9 @@ A simple mobile app made in Flutter to do scientific calculations.
 
 # Usage
 
-- Run `npm install` or `yarn install`.
-- Run `yarn start` and access `http://localhost:3000`
+- Run `flutter pub get` for install dependencies.
+- Press F5 if Vscode or run in command-Line `flutter run`.
+- Generate build with `flutter build apk`
 
 # Authors
 
