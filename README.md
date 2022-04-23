@@ -46,5 +46,5 @@ A simple mobile app made in Flutter to do scientific calculations.
 <div align="center">
   <h1>Open Source</h1>
   <sub>Copyright © 2020-present, izakdvlpr.</sub>
-  <p>Simple Calculator <a href="https://github.com/izakdvlpr/simple-caculator/tree/master/LICENSE">is MIT licensed 💖</a></p>
+  <p>Simple Calculator <a href="https://github.com/izakdvlpr/simple-caculator/blob/main/LICENSE">is MIT licensed 💖</a></p>
 </div>
